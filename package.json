@@ -1,0 +1,27 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "Blog using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Keshav",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^4.4.1",
+    "express": "^4.17.1",
+    "express-edge": "^2.0.2",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.1",
+    "nodemon": "^2.0.7",
+    "startbootstrap-clean-blog": "^5.0.10",
+    "validator": "^13.5.2"
+  }
+}
